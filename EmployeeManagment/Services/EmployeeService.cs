@@ -1,6 +1,12 @@
-﻿namespace EmployeeManagment.Services
+﻿using EmployeeManagement.Shared;
+
+namespace EmployeeManagment.Services
 {
-    public class EmployeeService
+    public class EmployeeService:ServiceBase<Employee>
     {
+        public EmployeeService(ApplicationDbContext context):base(context)
+        {
+            
+        }
     }
 }

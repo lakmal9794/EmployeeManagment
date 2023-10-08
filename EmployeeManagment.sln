@@ -5,7 +5,7 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagment", "EmployeeManagment\EmployeeManagment.csproj", "{ED882EE8-2AF3-45D4-87E8-7146B4A2B352}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement.Shared", "EmployeeManagement.Shared\EmployeeManagement.Shared.csproj", "{216899E4-4D2A-4021-B1A1-416A68368206}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagement.Shared", "EmployeeManagement.Shared\EmployeeManagement.Shared.csproj", "{216899E4-4D2A-4021-B1A1-416A68368206}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
